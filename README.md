@@ -2,8 +2,9 @@
 
 <h3> Listens to ActiveMQ messages over SSL ONLY! This does not support other connection types </h3>
 
-<p> The only hard-coded variable in this repo is the queue name to that shoudl be listened to. 
-Inside the configuration file, please provide following: </p>
+<p> The only hard-coded variable in this repo is the queue name to that should be listened to.
+Place a config.properties inside the resources folder
+Inside that configuration file, please provide following: </p>
 
 <ul>
   <li>username (This is the username for activeMQ instance)</li>
