@@ -9,7 +9,7 @@ Inside the configuration file, please provide following: </p>
   <li>username (This is the username for activeMQ instance)</li>
   <li> password (This is the password for the activeMQ instance) </li>
   <li> activeMQBrokerUri (This is the ui. The format should be: ssl://<DNS_HOST_NAME>:<PORT> </li>
-<ul>
+</ul>
 
 
-<p> Currently, connections to ActiveMQ will not used any certs and by default we do not verify the host name. </p>
+<h4> Currently, connections to ActiveMQ will not used any certs and by default we do not verify the host name. </h4>
