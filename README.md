@@ -9,7 +9,7 @@ Inside that configuration file, please provide following: </p>
 <ul>
   <li>username (This is the username for activeMQ instance)</li>
   <li> password (This is the password for the activeMQ instance) </li>
-  <li> activeMQBrokerUri (This is the ui. The format should be: ssl://<DNS_HOST_NAME>:<PORT> </li>
+  <li> activeMQBrokerUri (This is the ui. The format should be: ssl://DNS_HOST_NAME:PORT</li>
 </ul>
 
 
