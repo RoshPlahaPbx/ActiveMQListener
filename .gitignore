@@ -1,5 +1,7 @@
-*/target/**
+.classpath
+.project
+.settings/
+target/
 .idea/
 *.iml
 *.iws
-src/main.resources/config.properties
